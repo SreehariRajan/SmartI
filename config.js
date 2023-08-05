@@ -1,0 +1,2 @@
+export const casesContractAddress = "0xEbBDCa661Bd3b04774dCAac31D5a86327549Df46"
+export const evidencesContractAddress = "0x6a2693f60f16ca62B85CAc4d0acb71415AE5E1E7"
